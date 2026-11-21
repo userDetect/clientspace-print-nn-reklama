@@ -1,12 +1,10 @@
-# НН Реклама · демо ClientSpace
+# НН Реклама · концепт ClientSpace
 
-[Демо](https://userdetect.github.io/clientspace-print-nn-reklama/) также можно открыть локально через любой статический HTTP-сервер.
+- [Демо сайта](https://userdetect.github.io/clientspace-print-nn-reklama/)
+- [Демо CRM](https://userdetect.github.io/clientspace-print-nn-reklama/crm.html)
+- [Действующий сайт](https://nn-reklama.ru/)
 
-Форма формирует черновик в браузере. Для приёма заказов понадобится подключить канал доставки заявок.
-
-[Действующий сайт](https://nn-reklama.ru/)
-
-## Источники изображений
+Форма и CRM используют IndexedDB. Созданные в демо заявки и файлы хранятся в браузере. Сравнивать форму и CRM нужно в одном браузерном профиле.
 
 - [Рекламная конструкция из портфолио НН Реклама](https://nn-reklama.ru/)
 - [Фотография проекта на сайте НН Реклама](https://nn-reklama.ru/)
